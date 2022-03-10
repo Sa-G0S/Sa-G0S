@@ -1,6 +1,7 @@
 <h1 align="center"> Olá, Eu sou a Sara! 😊 🖖</h1>
 <h3><p>:octocat: Estou em transição de carreira para área de Análise e Desenvolvimento de Sistemas.</p>
-<p>🌱 Estou em busca de conhecimento e apromoramento na área Dev.</p></h3>
+  <p>:rocket: Sou iniciante e estou entusiasmada com esse novo universo.</p>
+  <p>:seedling: Estou em busca de conhecimento e aprimoramento na área Dev.</p></h3>
 
 
 <!---
