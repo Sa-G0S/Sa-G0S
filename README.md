@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Eu sou a Sara! 😊 🖖</h1>
+**<h1 align="center"> Oii, Sou a Sara! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h1>**
 <h3><p>:octocat: Estou em transição de carreira para área de Análise e Desenvolvimento de Sistemas.</p>
   <p>:rocket: Sou iniciante e estou entusiasmada com esse novo universo.</p>
   <p>:seedling: Estou em busca de conhecimento e aprimoramento na área Dev.</p></h3>
