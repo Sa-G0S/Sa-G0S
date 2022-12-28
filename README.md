@@ -1,5 +1,5 @@
 **<h1 align="center"> Oiê, Sou a Sara! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h1>**
-<h3><p>:octocat: Sou Analista e Desenvolvedoura Jr. Java ☕.</p>
+<h3><p>:octocat: Sou Analista e Desenvolvedora Jr. Java ☕.</p>
   <p>:rocket: Iniciante e entusiasmada com esse novo universo.</p>
   <p>:seedling: Estou em busca de conhecimento e aprimoramento na área Dev.</p></h3>
 
